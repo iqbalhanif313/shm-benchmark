@@ -10,6 +10,10 @@ This repository houses user-friendly, cloud-ready benchmarking suites for the fo
 
 > More details could be found at the [official documentation](http://openmessaging.cloud/docs/benchmarks/).
 
+## Prerequisites:
+- Java version: 22
+- Apache Kafka Cluster ([implementation](https://github.com/iqbalhanif313/shm-blueprint/blob/main/deployment/docker/docker-compose.yaml))
+- RabbitMQ Cluster ([implementation](./rabbit-cluster/docker-compose.yml))
 
 ## How to Use:
 
